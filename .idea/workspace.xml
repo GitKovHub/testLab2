@@ -16,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1ZtWR4yBHWCCqJljlgGZbbVm5aj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +29,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
@@ -40,21 +44,73 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585658858547</updated>
-      <workItem from="1585658861860" duration="911000" />
+      <workItem from="1585658861860" duration="5262000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="826" y="167" key="FileChooserDialogImpl" timestamp="1585658964745">
+    <state x="826" y="167" key="FileChooserDialogImpl" timestamp="1585661958819">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="826" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585658964745" />
-    <state x="555" y="55" key="SettingsEditor" timestamp="1585658999733">
+    <state x="826" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585661958819" />
+    <state x="142" y="53" key="MergeDialog" timestamp="1585666004307">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585658999733" />
+    <state x="142" y="53" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1585666004307" />
+    <state x="481" y="128" key="MultipleFileMergeDialog" timestamp="1585666004312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="481" y="128" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1585666004312" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1585662428544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585662428544" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585666329453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585666329453" />
+    <state x="922" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585665969861">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="922" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1585665969861" />
   </component>
 </project>
